@@ -1,3 +1,3 @@
-# BootstrapATTEducation
-Free Download Bootstrap Template by Aung T Tant Education.<br><br>
-<a href="https://business.aungttant.com/download/">Download here!</a>
+# BootstrapHypeThinkEducation
+Free Download Bootstrap Template by Hype Think Education.<br><br>
+<a href="https://hypethinkeducation.com/download/">Download here!</a>
